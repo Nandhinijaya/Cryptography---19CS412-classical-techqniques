@@ -62,7 +62,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-08-30 at 14-15-13 Online C Compiler - Programiz](https://github.com/user-attachments/assets/3d533a1d-5840-48b7-bdf6-be35e9545e8b)
+![EXP1 1](https://github.com/user-attachments/assets/57508eef-0b43-43b1-9838-2f3b7c09260b)
+
 )
 
 ## RESULT:
@@ -235,7 +236,7 @@ int main()
 {
 char str[SIZE], key[SIZE];
 // Key to be encrypted
-strcpy(key, "Monarchy");
+strcpy(key, "NANDHINI");
 printf("Key text: %s\n", key);
 // Plaintext to be encrypted
 strcpy(str, "instruments");
@@ -247,7 +248,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-08-30 at 14-17-45 Online C Compiler - Programiz](https://github.com/user-attachments/assets/bdeaaac3-8000-4271-84d8-76cb82e1a694)
+![EXP 1 2](https://github.com/user-attachments/assets/fca9c961-24f8-4220-bb2a-bfeecba00399)
+
 
 ## RESULT:
 The program is executed successfully
@@ -329,7 +331,7 @@ int main() {
     char dec[1000] = "";
     int n;
     
-    strcpy(msg, "SecurityLaboratory");
+    strcpy(msg, " NANDHINI");
     printf("Simulation of Hill Cipher\n");
     printf("Input message : %s\n", msg);
     
@@ -375,7 +377,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-08-30 at 14-20-37 Online C Compiler - Programiz](https://github.com/user-attachments/assets/a73fd00a-f5c4-42e2-92af-57252233a223)
+
+![EXP 1 3](https://github.com/user-attachments/assets/b384337d-0479-4d3c-8e8f-9cf9528e2896)
 
 ## RESULT:
 The program is executed successfully
@@ -459,7 +462,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-08-30 at 14-24-43 Online C Compiler - Programiz](https://github.com/user-attachments/assets/30296f10-323e-412e-9184-03790ac25c00)
+![EXP 1 4](https://github.com/user-attachments/assets/bd370549-955b-4f64-8aeb-9bcff6f52468)
+
 
 ## RESULT:
 The program is executed successfully
@@ -557,7 +561,8 @@ printf("\n");
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-08-30 at 14-35-37 Online C Compiler - online editor](https://github.com/user-attachments/assets/829b97f5-957d-40d4-9ec5-5aa7f23228f8)
+![EXP 1 5](https://github.com/user-attachments/assets/99281e03-4f98-43ec-a678-31fc5dbce4d9)
+
 
 ## RESULT:
 The program is executed successfully
